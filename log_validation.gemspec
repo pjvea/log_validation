@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["pjvea"]
   spec.email         = ["pj@veasoftware.com"]
 
-  spec.summary       = %q{Gem that prints validation errors to debuggers.}
-  spec.description   = %q{Gem that prints validation errors to debuggers.}
+  spec.summary       = %q{Gem that prints validation errors to the debugger.}
+  spec.description   = %q{Gem that prints validation errors to the debugger.}
   spec.homepage      = "https://www.veasoftware.com/"
   spec.license       = "MIT"
 
